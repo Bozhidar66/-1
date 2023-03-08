@@ -1,11 +1,6 @@
 package kursova_rabota_java;
 import java.util.Scanner;
-import java.awt.image.BufferedImage;
-import java.io.File;
-import javax.imageio.ImageIO;
-import javax.swing.ImageIcon;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
+
 
 public class Main {
 
@@ -26,7 +21,7 @@ public class Main {
 	        			else if (inputString.equals("other")) {
 	  	  	  	          // код за другите функции
 	        } else {
-	            System.out.println("The color is not red or blue.");
+	            System.out.println("this function does not exsit");
 	        }
 
 	       
